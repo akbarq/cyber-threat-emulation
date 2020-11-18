@@ -6,9 +6,10 @@ Python3
 
 ## Libraries
 Requests
+`pip3 install requests`
+
 
 ## Usage
-Install Requests
-pip3 install requests
+
 
 
