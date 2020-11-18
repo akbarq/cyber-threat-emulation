@@ -11,7 +11,7 @@ import requests
 import sys
 
 if len(sys.argv) < 2:
-    print ('Usage: dga.py dga_requests')
+    print ('Usage: dga.py number_of_dga_requests')
     print ('Example: dga.py 5') 
     sys.exit(1)
 
