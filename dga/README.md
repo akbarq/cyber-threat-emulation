@@ -5,7 +5,8 @@ Emulates DGA traffic
 Python3
 
 ## Libraries
-Requests
+Requests.
+
 `pip3 install requests`
 
 
