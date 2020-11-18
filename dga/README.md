@@ -6,6 +6,8 @@ The script generates random 12 character domains for the following tlds:
 
 `.cc, .top, .ws, .to, .so, .gq, .gdn, .cf`
 
+MITRE ATT&CK T1568.002 - https://attack.mitre.org/techniques/T1568/002/
+
 ## Requirements
 Python3
 
