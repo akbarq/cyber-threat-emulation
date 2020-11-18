@@ -1,5 +1,5 @@
 
-Emulates DGA traffic
+Emulates DGA malware traffic
 
 ## Requirements
 Python3
@@ -11,6 +11,8 @@ Requests.
 
 
 ## Usage
+`chmod +x dga.py`
 
+`./dga.py 5`
 
 
