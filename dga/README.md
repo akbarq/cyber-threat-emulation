@@ -1,1 +1,2 @@
 
+Emulates DGA traffic
