@@ -1,5 +1,10 @@
 
-Emulates DGA malware traffic
+## Description
+Emulates DGA based malware traffic.
+
+The script generates random 12 character domains for the following tlds:
+
+`.cc, .top, .ws, .to, .so, .gq, .gdn, .cf`
 
 ## Requirements
 Python3
@@ -14,5 +19,7 @@ Requests.
 `chmod +x dga.py`
 
 `./dga.py 5`
+
+![alt tag](https://github.com/akbarq/threat-emulation/blob/main/dga/img/dga.png)
 
 
