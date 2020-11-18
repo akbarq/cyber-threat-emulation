@@ -1,13 +1,13 @@
 
 Emulates DGA traffic
 
-##Requirements
+## Requirements
 Python3
 
-##Libraries
+## Libraries
 Requests
 
-##Usage
+## Usage
 Install Requests
 pip3 install requests
 
