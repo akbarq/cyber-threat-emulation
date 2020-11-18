@@ -1,14 +1,14 @@
-#!/usr/bin/python3
-import string
-import random
-import requests
-import sys
-
 #############################################################
 # Description: dga.py tries to emulate malware DGA requests #                           
 # Version: 1.0                                              #
 # Author: Akbar Qureshi                                     #
 #############################################################
+
+#!/usr/bin/python3
+import string
+import random
+import requests
+import sys
 
 if len(sys.argv) < 2:
     print ('Usage: dga.py dga_requests')
