@@ -1,10 +1,10 @@
-#############################################################
-# Description: dga.py tries to emulate malware DGA requests #                           
-# Version: 1.0                                              #
-# Author: Akbar Qureshi                                     #
-#############################################################
+##################################################################
+# Description: dga.py emulates DGA based malare traffic requests #                           
+# Version: 1.0                                                   #
+# Author: Akbar Qureshi                                          #
+##################################################################
 
-#!/usr/bin/python3
+#!/usr/bin/env python3
 import string
 import random
 import requests
